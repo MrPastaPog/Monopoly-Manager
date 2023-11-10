@@ -59,7 +59,7 @@ properties = [
       house_and_hotel: [30, 90, 270, 400, 550]   //1 hse, 2 hses, 3 hses, 4 hses, Hotel
     }
   },
-  euston_roa = {
+  euston_road = {
     name: 'Euston Road',
     type: 'Property',
     set: 'Light Blue',
@@ -116,7 +116,7 @@ properties = [
       house_and_hotel: [50, 150, 450, 625, 750]   //1 hse, 2 hses, 3 hses, 4 hses, Hotel
     }
   },
-  northumberland_avenu = {
+  northumberland_avenue = {
     name: 'Northumberland Avenue',
     type: 'Property',
     set: 'Pink',
