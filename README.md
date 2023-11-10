@@ -57,6 +57,6 @@ Mayfair <br>
 Kings Cross Station <br>
 Marlybone Station <br>
 Fenchurch St Station <br>
-Liverpool St Station
-Electric Company
+Liverpool St Station <br>
+Electric Company <br>
 Water Works
