@@ -26,7 +26,7 @@ All properties have to be spelt correctly <br>
 capitilization is not a requirement <br>
 but spaces do have to be used <br>
 #An example <br>
-whitechapel road {Correct} <br>
+whitechapel road <p style="color: green">{Correct}<p> <br>
 WhItechapeL ROAD {Correct} <br>
 Whitechapelroad {Wrong} <br>
 
