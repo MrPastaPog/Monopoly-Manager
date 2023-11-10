@@ -15,7 +15,22 @@
   flex-direction: column;
 
 }
-
+#help {
+  font-size: 20px;
+  width: 400px;
+  position: relative;
+  top: 150px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #5cdb95;
+  border-radius: 5px;
+  box-shadow: 4px 4px 10px gray;
+  transition: 0.3s ease-in-out;
+}
+#help:hover {
+  color: white;
+  box-shadow: 8px 8px 10px rgb(77, 77, 77);
+}
 #center input {
   background-color: #8ee4af;
   width: 300px;
@@ -42,7 +57,7 @@
   font-size: 20px;
   width: 400px;
   position: relative;
-  top: 200px;
+  top: 160px;
   left: 50%;
   transform: translateX(-50%);
   background-color: #5cdb95;
