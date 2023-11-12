@@ -275,13 +275,13 @@ properties = [
     type: 'Property',
     set: 'Green',
     price: {
-      ownership: 280,    //cost
+      ownership: 300,    //cost
       house_and_hotel: 200
     },
     rent: {
-      base: 22,       //site
-      set: 44,       //site doubled
-      house_and_hotel: [120, 360, 850, 1025, 1200]   //1 hse, 2 hses, 3 hses, 4 hses, Hotel
+      base: 26,       //site
+      set: 52,       //site doubled
+      house_and_hotel: [130, 390, 900, 1100, 1200]   //1 hse, 2 hses, 3 hses, 4 hses, Hotel
     }
   },
   bond_street = {
